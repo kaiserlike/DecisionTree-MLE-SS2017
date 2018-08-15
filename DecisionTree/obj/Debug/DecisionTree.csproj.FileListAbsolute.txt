@@ -1,0 +1,18 @@
+c:\users\alex\documents\visual studio 2015\Projects\DecisionTree\DecisionTree\bin\Debug\DecisionTree.exe.config
+C:\Users\Alex\documents\visual studio 2015\Projects\DecisionTree\DecisionTree\bin\Debug\DecisionTree.exe
+C:\Users\Alex\documents\visual studio 2015\Projects\DecisionTree\DecisionTree\bin\Debug\DecisionTree.pdb
+C:\Users\Alex\documents\visual studio 2015\Projects\DecisionTree\DecisionTree\obj\Debug\DecisionTree.csprojResolveAssemblyReference.cache
+C:\Users\Alex\documents\visual studio 2015\Projects\DecisionTree\DecisionTree\obj\Debug\DecisionTree.exe
+C:\Users\Alex\documents\visual studio 2015\Projects\DecisionTree\DecisionTree\obj\Debug\DecisionTree.pdb
+C:\Users\franz\Desktop\DecisionTree (2)\DecisionTree\DecisionTree\bin\Debug\DecisionTree.exe.config
+C:\Users\franz\Desktop\DecisionTree (2)\DecisionTree\DecisionTree\obj\Debug\DecisionTree.exe
+C:\Users\franz\Desktop\DecisionTree (2)\DecisionTree\DecisionTree\obj\Debug\DecisionTree.pdb
+C:\Users\franz\Desktop\DecisionTree (2)\DecisionTree\DecisionTree\bin\Debug\DecisionTree.exe
+C:\Users\franz\Desktop\DecisionTree (2)\DecisionTree\DecisionTree\bin\Debug\DecisionTree.pdb
+C:\Users\franz\Desktop\DecisionTree (2)\DecisionTree\DecisionTree\obj\Debug\DecisionTree.csprojResolveAssemblyReference.cache
+C:\Users\franz\Desktop\DecisionTree\DecisionTree\bin\Debug\DecisionTree.exe.config
+C:\Users\franz\Desktop\DecisionTree\DecisionTree\obj\Debug\DecisionTree.exe
+C:\Users\franz\Desktop\DecisionTree\DecisionTree\obj\Debug\DecisionTree.pdb
+C:\Users\franz\Desktop\DecisionTree\DecisionTree\bin\Debug\DecisionTree.exe
+C:\Users\franz\Desktop\DecisionTree\DecisionTree\bin\Debug\DecisionTree.pdb
+C:\Users\franz\Desktop\DecisionTree\DecisionTree\obj\Debug\DecisionTree.csprojResolveAssemblyReference.cache
